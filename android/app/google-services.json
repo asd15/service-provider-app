@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640274820336",
+    "project_id": "social-jobz",
+    "storage_bucket": "social-jobz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640274820336:android:68ce28b13d7fb7d97d6635",
+        "android_client_info": {
+          "package_name": "com.yourfreelancebuddy.socialjobz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640274820336-0h05hhcug2njhd2ll18eorrm7p6dv7ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlnSNlbKYHyk6V65hshwVz6AU9-WCGV7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640274820336-0h05hhcug2njhd2ll18eorrm7p6dv7ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
